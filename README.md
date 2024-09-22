@@ -1,5 +1,7 @@
-# hmh-data-engineering-upskill
-Materials for learning and upskilling in data engineering
+# Data Engineering
+Code and helpers on data engineering tasks
+
+## Areas
 
 [ETL](https://github.com/hmhristov/hmh-data-engineering-upskill/edit/main/Articles/ETL.md)
 
